@@ -1,7 +1,7 @@
 package io.github.springsecurity.sbootexpsecurity.api;
 
 import io.github.springsecurity.sbootexpsecurity.domain.entity.Grupo;
-import io.github.springsecurity.sbootexpsecurity.repository.GrupoRepository;
+import io.github.springsecurity.sbootexpsecurity.domain.repository.GrupoRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;
